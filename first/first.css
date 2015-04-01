@@ -1,0 +1,75 @@
+body {
+	background: #000000;
+}
+.frame {
+	
+	width: 800px;
+	background: #ffffff;
+	margin: 0 auto;
+	border-radius: 10px;
+}
+header {
+	height: 150px;
+	width: 90%;
+	margin: 0 auto;
+}
+.top {
+	display: inline-block;
+	height: 100px;
+	width: 30%;
+	border:10px solid white;
+	
+}
+.content {
+	margin: 0 auto;
+	width: 90%;
+	font-family: sans-serif;
+	font-size: 20px;
+}
+.mid {
+	height: 200px;
+	width: 90%;
+	margin: 0 auto;
+	background: blue;
+}
+
+.wha.red {
+	height: 200px;
+	width:30%;
+}
+.mid.blue {
+	width: 90%;
+	margin: 0;
+}
+.low {
+	height: 100px;
+	width: 90%;
+}
+.low.blue {
+	border: 10px white;
+	width:90%;
+	margin: 25px auto;
+	border: 10px solid white;
+}
+.low.red {
+	position: relative;
+	float:right;
+	width:25%;
+}
+.low.gray {
+	float: right;
+	width: 75%;
+	margin: 0px 25px;
+}
+
+
+
+.red {
+	background: red;
+}
+.blue {
+	background: blue;
+}
+.gray {
+	background: gray;
+}
